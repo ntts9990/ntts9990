@@ -1,6 +1,6 @@
 - Hi, I’m @ntts9990!
 - Master of Arts (M.A.) in Cognitive Psychology.
-- I worked as a data analyst intern at Netmarble
+- I worked as a data analyst intern at Netmarble.
 - I was a statistician & data analyst at NICE Information Service.
 - I’m currently learning Python, R, SQL, Dart & Flutter!
 <!---
