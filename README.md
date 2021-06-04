@@ -1,4 +1,5 @@
 - Hi, I’m @ntts9990!
+- I worked as a data analyst intern at Netmarble
 - I was a statistician & data analyst at NICE Information Service.
 - I’m currently learning Python, R, SQL, Dart & Flutter!
 
